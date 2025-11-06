@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bear
+comment0.text=\r\n\ Class\ for\ bear\ animal\ with\ unique\ methods\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 2/17/2025\r\n
+comment1.params=agein\ sexin
+comment1.target=Bear(int,\ int)
+comment1.text=\r\n\ Bear\ constructor\ with\ given\ values\ for\ gender\ and\ age\r\n\ \r\n\ @param\ agein\ age\ of\ bear\ being\ initialized\r\n\ @param\ sexin\ sex\ of\ bear\ being\ initialized\ as\ an\ int\r\n
+comment2.params=
+comment2.target=Bear()
+comment2.text=\r\n\ Bear\ constructor\ with\ random\ gender\ and\ age\r\n
+comment3.params=
+comment3.target=boolean\ ageUp()
+comment3.text=\r\n\ increments\ the\ animals\ age\r\n\ \r\n\ @return\ if\ the\ age\ was\ increased\r\n
+comment4.params=
+comment4.target=boolean\ maxAge()
+comment4.text=\r\n\ checks\ if\ animal\ is\ at\ max\ age\r\n\ \r\n\ @return\ if\ animal\ is\ at\ max\ age\r\n
+numComments=5

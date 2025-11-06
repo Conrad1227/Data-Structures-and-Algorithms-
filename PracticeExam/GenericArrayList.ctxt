@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GenericArrayList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GenericArrayList\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GenericArrayList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GenericArrayList\r\n
+comment2.params=
+comment2.target=void\ grow()
+comment3.params=val
+comment3.target=void\ addToBack(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RiverSimulator
+comment0.text=\r\n\ Class\ to\ simulate\ the\ river\ and\ its\ animals\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 2/17/2025\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ runs\ starting\ text\ of\ simulation\ and\ stops\ when\ the\ user\ selects\ 2\r\n\ \r\n\ @param\ args\ not\ used\r\n
+comment2.params=
+comment2.target=boolean\ simulator()
+comment2.text=\r\n\ runs\ the\ simulation\ and\ asks\ user\ for\ length\ and\ number\ of\ cycles\r\n\ \r\n\ @return\ false\ if\ user\ wishes\ to\ exit\ and\ true\ while\ simulator\ is\ running\r\n
+comment3.params=
+comment3.target=boolean\ selector()
+comment3.text=\r\n\ asks\ user\ if\ they\ want\ to\ simulate\ or\ exit\ and\ runs\ accordingly\r\n\ \r\n\ @return\ returns\ true\ if\ run\ simulation\ is\ selected\ and\ 2\ if\ exit\ is\ selected\r\n
+numComments=4
