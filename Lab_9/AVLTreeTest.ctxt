@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AVLTreeTest
+comment0.text=\r\n\ The\ test\ class\ AVLTreeTest.\r\n\r\n\ @author\ \ Conrad\ Hahn\r\n\ @version\ 4/22/2025\r\n
+comment1.params=
+comment1.target=AVLTreeTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ AVLTreeTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testInsert()
+comment4.text=\r\n\ Tests\ the\ insert\ method\ of\ AVLTree\ which\ also\ uses\ balance\ so\ that\ is\ being\ tested\ as\ well.\r\n\ Balance\ also\ uses\ the\ getHeight\ and\ getBF\ methods\ which\ are\ being\ tested\ as\ well\r\n\r\n
+numComments=5

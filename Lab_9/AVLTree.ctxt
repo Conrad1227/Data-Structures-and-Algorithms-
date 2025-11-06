@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AVLTree
+comment0.text=\r\n\ A\ balanced\ tree\ of\ AVLNodes\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/21/2025\r\n
+comment1.params=e
+comment1.target=AVLTree(AVLNode)
+comment1.text=\r\n\ constructor\ creating\ a\ root\ node\r\n\ \r\n\ @param\ e\ value\ of\ root\ node\ being\ created\r\n
+comment2.params=e
+comment2.target=boolean\ insert(java.lang.Comparable)
+comment2.text=\r\n\ inserts\ node\ into\ tree\ and\ balances\ the\ tree\ based\ on\ the\ balaning\ factor\ of\ each\ node\r\n\ \r\n\ @param\ e\ value\ being\ added\ to\ the\ tree\r\n\ @return\ true\ if\ the\ value\ was\ added,\ false\ if\ the\ value\ already\ is\ in\ the\ tree\r\n
+comment3.params=curr\ val
+comment3.target=void\ insertRecursive(BinaryNode,\ java.lang.Comparable)
+comment3.text=\r\n\ private\ helper\ method\ that\ recursively\ moves\ through\ tree\ until\ an\ empty\ child\ in\ a\ valid\ position\ is\ found\ to\ add\ a\ new\ value\ to\ \r\n\ \r\n\ @param\ curr\ current\ node\ being\ checked\r\n\ @param\ insert\ E\ type\ object\ representing\ value\ to\ be\ inserted\r\n
+comment4.params=curr
+comment4.target=int\ getHeight(BinaryNode)
+comment4.text=\r\n\ finds\ the\ height\ of\ a\ given\ node\ by\ recursively\ traversing\ through\ all\ nodes\ and\ and\ choosing\ largest\ value\r\n\ \r\n\ @param\ curr\ node\ currently\ being\ examined\r\n\ @return\ the\ height\ of\ a\ given\ node\r\n
+comment5.params=e
+comment5.target=int\ getBF(AVLNode)
+comment5.text=\r\n\ finds\ the\ balance\ factor\ of\ a\ given\ node\r\n\ \r\n\ @param\ e\ the\ node\ whos\ balance\ factor\ is\ being\ returned\r\n\ @return\ the\ balance\ factor\ of\ the\ node\r\n
+comment6.params=curr
+comment6.target=boolean\ balance(AVLNode)
+comment6.text=\r\n\ balances\ tree\ recursively\ from\ current\ down\ using\ left\ and\ right\ rotations\r\n\ \r\n\ @param\ curr\ the\ pivot\ node\ for\ a\ specific\ balance\ operation\r\n\ @return\ true\ if\ the\ tree\ was\ balanced,\ false\ if\ not\r\n
+comment7.params=
+comment7.target=AVLNode\ getRoot()
+comment7.text=\r\n\ returns\ the\ root\r\n\ \r\n\ @return\ root\ node\ of\ current\ tree\r\n
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AVLNode
+comment0.text=\r\n\ AVLNode\ objects\ to\ be\ used\ in\ AVLTree\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/21/2025\r\n
+comment1.params=val
+comment1.target=AVLNode(java.lang.Comparable)
+comment1.text=\r\n\ basic\ constructor\ designed\ to\ define\ a\ root\ node\ for\ AVLTree.\ Parent\ value\ is\ null\ and\ height\ is\ initially\ set\ to\ 0\r\n\ @param\ val\ E\ type\ object\ to\ be\ designated\ as\ node\ value\r\n
+comment2.params=val\ parent
+comment2.target=AVLNode(java.lang.Comparable,\ AVLNode)
+comment2.text=\r\n\ builds\ new\ AVLNode\ with\ specified\ value\ and\ parent\ Node\ value\r\n\ \r\n\ @param\ val\ E\ type\ object\ to\ be\ designated\ as\ node\ value\r\n\ @param\ parent\ AVLNode\ type\ object\ to\ be\ designated\ as\ this\ node's\ parent\ node\r\n
+comment3.params=
+comment3.target=AVLNode\ getParent()
+comment3.text=\r\n\ returns\ the\ current\ parent\ node\ to\ this\ node\r\n\ \r\n\ @return\ AVLnode\ representing\ the\ parent\ node\ to\ the\ current\ node\r\n
+comment4.params=n
+comment4.target=void\ setParent(AVLNode)
+comment4.text=\r\n\ sets\ parent\ node\ to\ a\ passed\ object\r\n\ \r\n\ @param\ n\ value\ to\ be\ set\ as\ parent\ to\ current\ node\r\n
+numComments=5

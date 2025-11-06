@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BinaryNode
+comment0.text=\r\n\ Node\ objects\ for\ binary\ trees\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/22/2025\r\n
+comment1.params=val
+comment1.target=BinaryNode(java.lang.Comparable)
+comment1.text=\r\n\ Constructor\ for\ nodes\ that\ have\ certain\ values\r\n
+comment2.params=
+comment2.target=java.lang.Comparable\ getVal()
+comment2.text=\r\n\ gets\ value\ of\ node\r\n\ \ \ \ \ \r\n\ @return\ value\ of\ node\r\n
+comment3.params=val
+comment3.target=void\ setVal(java.lang.Comparable)
+comment3.text=\r\n\ sets\ value\ of\ node\ \r\n\ \r\n\ @param\ \ val\ value\ being\ set\ for\ node\r\n\ \r\n
+comment4.params=right
+comment4.target=void\ setRight(BinaryNode)
+comment4.text=\r\n\ sets\ right\ child\ of\ the\ node\r\n\ \r\n\ @param\ right\ node\ being\ set\ as\ the\ right\ child\r\n\ \r\n
+comment5.params=left
+comment5.target=void\ setLeft(BinaryNode)
+comment5.text=\r\n\ sets\ left\ child\ of\ the\ node\r\n\ \r\n\ @param\ left\ node\ being\ set\ as\ the\ left\ child\r\n\ \r\n
+comment6.params=
+comment6.target=BinaryNode\ getLeft()
+comment6.text=\r\n\ gets\ left\ child\ of\ the\ node\r\n\ \r\n\ @return\ the\ left\ child\ of\ the\ node\r\n
+comment7.params=
+comment7.target=BinaryNode\ getRight()
+comment7.text=\r\n\ gets\ right\ child\ of\ the\ node\r\n\ \r\n\ @return\ the\ right\ child\ of\ the\ node\r\n\ \r\n
+numComments=8
