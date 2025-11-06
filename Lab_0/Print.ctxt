@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Print
+comment0.text=\r\n\ Print\ A\ String\ Array\ to\ the\ console\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 1/27/2025\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n@param\ args\ array\ of\ strings\ that\ will\ be\ printed\r\n\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BasicIO
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ is\ the\ main\ method\ that\ outputs\ the\ input\ from\ the\ user\ as\ well\ \r\n\ as\ well\ as\ the\ the\ count\ of\ words,\ characters,and\ lines.\ It\ also\r\n\ verifies\ the\ input\ as\ well\ as\ the\ starting\ and\ stopping\ of\ the\ loop\r\n\ in\ the\ error\ secton\ of\ the\ console\r\n\r\n\ @param\ args\ is\ not\ used\r\n
+numComments=2
