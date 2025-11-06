@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Word
+comment0.text=\r\n\ Word\ class\ for\ Word\ objects\ with\ its\ methods\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 3/4/2025\r\n
+comment1.params=word
+comment1.target=Word(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Word\r\n
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment2.text=\r\n\ returns\ the\ word\ variable\ of\ the\ Word\ object\r\n\ \r\n\ @return\ the\ string\ of\ the\ word\ object\r\n
+comment3.params=
+comment3.target=int\ getFrequency()
+comment3.text=\r\n\ returns\ the\ frequency\ of\ the\ Word\ object\r\n\ \r\n\ @return\ the\ frequency\ of\ the\ word\r\n
+comment4.params=
+comment4.target=void\ increment()
+comment4.text=\r\n\ increments\ the\ frequency\ of\ the\ word\ by\ 1\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ turns\ the\ object\ into\ a\ string\r\n\ \r\n\ @return\ the\ word\ object\ represented\ as\ a\ string\r\n
+comment6.params=w
+comment6.target=int\ compareTo(Word)
+comment6.text=\r\n\ compares\ two\ Words'\ frequencies\r\n\ \r\n\ @return\ the\ value\ of\ the\ compare\ function\r\n
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FreqComparatorTest
+comment0.text=\r\n\ The\ test\ class\ FreqComparatorTest.\r\n\r\n\ @author\ \ Conrad\ Hahn\r\n\ @version\ 3/25/25\r\n
+comment1.params=
+comment1.target=FreqComparatorTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ FreqComparatorTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testCompare()
+comment4.text=\r\n\ Test\ method\ for\ compare\ method\ of\ FreqComparator\r\n
+numComments=5

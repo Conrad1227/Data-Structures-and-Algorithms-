@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Node\ here.\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 3/26/25\r\n
+comment1.params=d
+comment1.target=Node(java.lang.Object)
+comment1.text=\r\n\ Constructor\ for\ making\ single\ nodes\ with\ specified\ values\r\n
+comment2.params=list
+comment2.target=Node(java.util.ArrayList)
+comment2.text=\r\n\ Constructor\ for\ making\ a\ linked\ list\ using\ an\ Arraylist\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ converts\ the\ linked\ list\ into\ a\ string\r\n\ \r\n\ @return\ the\ linked\ list\ as\ a\ string\r\n
+comment4.params=value
+comment4.target=void\ addToBack(java.lang.Object)
+comment4.text=\r\n\ adds\ a\ value\ to\ the\ back\ of\ the\ list\ \r\n\ \r\n\ @param\ value\ the\ value\ you\ are\ adding\r\n
+comment5.params=value
+comment5.target=void\ addToFront(java.lang.Object)
+comment5.text=\r\n\ adds\ a\ value\ to\ the\ front\ of\ the\ list\ \r\n\ \r\n\ @param\ value\ the\ value\ you\ are\ adding\r\n
+comment6.params=k
+comment6.target=void\ rotate(int)
+comment6.text=\r\n\ rotates\ the\ list\ a\ set\ amount\ of\ times\r\n\ \r\n\ @param\ k\ the\ amount\ of\ times\ the\ list\ is\ being\ rotated\r\n
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ class\ for\ lab\ 5\ that\ holds\ the\ main\ method\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 3/4/2025\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Reads\ given\ text\ files\ and\ stopwords\ and\ creates\ a\ new\ WordList\ object\ with\ that\ data\r\n\r\n\ @param\ \ args\ not\ used\r\n
+comment3.params=words
+comment3.target=int\ distinctWordsCount(java.lang.String[])
+comment3.text=\r\n\ Goes\ through\ the\ array\ of\ words\ and\ counts\ how\ many\ different\ words\ there\ are\r\n\r\n\ @param\ \ words\ array\ of\ words\ that\ are\ being\ counted\r\n\ \ \r\n\ @return\ the\ number\ of\ distinct\ words\r\n
+comment4.params=words\ thresh
+comment4.target=int\ shortWordsCount(java.lang.String[],\ int)
+comment4.text=\r\n\ Goes\ through\ an\ array\ of\ strings\ and\ counts\ how\ many\ are\ of\ a\ specified\ size\r\n\r\n\ @param\ words\ array\ of\ words\ that\ are\ being\ counted\r\n\ @param\ thresh\ the\ length\ of\ the\ words\ being\ counted\r\n\ \r\n\ @return\ the\ number\ of\ words\ of\ specified\ length\r\n
+comment5.params=words\ letter
+comment5.target=Word\ mostFrequentByLetter(WordList,\ char)
+comment5.text=\r\n\ Goes\ through\ an\ array\ of\ strings\ and\ gets\ the\ most\ frequent\ word\ that\ starts\ with\ a\ certain\ letter\r\n\r\n\ @param\ words\ array\ of\ words\ that\ are\ being\ used\r\n\ @param\ letter\ the\ first\ letter\ of\ the\ words\ being\ looked\ at\r\n\ \r\n\ @return\ the\ most\ frequent\ word\ that\ starts\ with\ a\ specified\ letter\r\n
+numComments=6

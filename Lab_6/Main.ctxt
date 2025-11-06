@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ class\ for\ lab\ 6\ that\ holds\ the\ main\ method\r\n\r\n\ @author\ \ Conrad\ Hahn\r\n\ @version\ 3/25/25\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Reads\ given\ text\ files\ and\ stopwords\ and\ creates\ a\ new\ WordList\ object\ with\ that\ data.\ Then\ prints\ out\ the\ top\ k\ most\ frequent\ using\ a\ method\ and\ sorting\ algorithm,\ then\ the\ longest\ words,\ and\ then\ the\ most\ frequent\ long\ words\r\n\r\n\ @param\ \ args\ not\ used\r\n
+comment3.params=list\ c
+comment3.target=int\ selectionSort(java.util.ArrayList,\ java.util.Comparator)
+comment3.text=\r\n\ sorts\ an\ arraylist\ using\ selection\ sort\ algorithm\r\n\ \r\n\ @param\ \ list\ the\ ArrayList\ being\ sorted\r\n\ @param\ \ c\ the\ Comparator\ needed\ for\ comparing\ objects\ of\ type\ T\r\n\ @return\ \ \ \ the\ number\ of\ swaps\ that\ occured\r\n
+comment4.params=list\ c
+comment4.target=int\ bubbleSort(java.util.ArrayList,\ java.util.Comparator)
+comment4.text=\r\n\ sorts\ an\ arraylist\ using\ bubble\ sort\ algorithm\r\n\ \r\n\ @param\ \ list\ the\ ArrayList\ being\ sorted\r\n\ @param\ \ c\ the\ Comparator\ needed\ for\ comparing\ objects\ of\ type\ T\r\n\ @return\ \ the\ number\ of\ swaps\ that\ occured\r\n
+comment5.params=list\ c
+comment5.target=int\ insertionSort(java.util.ArrayList,\ java.util.Comparator)
+comment5.text=\r\n\ sorts\ an\ arraylist\ using\ insertion\ sort\ algorithm\r\n\ \r\n\ @param\ \ list\ the\ ArrayList\ being\ sorted\r\n\ @param\ \ c\ the\ Comparator\ needed\ for\ comparing\ objects\ of\ type\ T\r\n\ @return\ \ the\ number\ of\ shifts\ that\ occured\r\n
+numComments=6

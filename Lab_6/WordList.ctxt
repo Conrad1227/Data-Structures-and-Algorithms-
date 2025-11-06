@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WordList
+comment0.text=\r\n\ Wordlist\ class\ that\ will\ hold\ the\ ArrayList\ of\ Words\r\n\r\n\r\n\ @author\ \ Conrad\ Hahn\r\n\ @version\ 3/25/25\r\n
+comment1.params=stopWords\ tokens
+comment1.target=WordList(java.util.ArrayList,\ java.lang.String[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordList\ that\ adds\ array\ of\ strings\ to\ an\ arraylist\ of\ word\ objects\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getWordFrequency()
+comment2.text=\r\n\ returns\ the\ local\ arraylist\ of\ Word\ objects\ in\ this\ class\r\n\ \r\n\ @return\ the\ arraylist\ of\ Words\r\n
+comment3.params=w
+comment3.target=int\ search(java.lang.String)
+comment3.text=\r\n\ searches\ the\ arraylist\ for\ a\ certain\ word\r\n\ \r\n\ @param\ w\ the\ string\ the\ is\ being\ seached\ for\r\n\ \r\n\ @return\ the\ index\ where\ the\ word\ was\ found\ or\ -1\ if\ the\ word\ wasnt\ found\r\n
+comment4.params=
+comment4.target=Word\ getMostFrequent()
+comment4.text=\r\n\ finds\ and\ returns\ the\ Word\ object\ with\ the\ highest\ frequency\r\n\ \r\n\ @return\ the\ most\ frequent\ Word\r\n
+comment5.params=k
+comment5.target=Word[]\ topKMostFrequent(int)
+comment5.text=\r\n\ finds\ the\ top\ k\ words\ in\ the\ arraylist\ and\ returns\ them\ as\ an\ array\r\n\ \r\n\ @param\ k\ the\ top\ k\ words\ in\ the\ arraylist\ are\ returned\r\n\ \r\n\ @return\ a\ Word\ array\ of\ the\ most\ frequent\ words\r\n
+comment6.params=word\ stopWords
+comment6.target=boolean\ isStopWord(java.lang.String,\ java.util.ArrayList)
+comment6.text=\r\n\ checks\ if\ the\ given\ word\ is\ in\ the\ list\ of\ stop\ words\r\n\ \r\n\ @param\ word\ the\ word\ that\ is\ getting\ checked\r\n\ @param\ stopWords\ the\ list\ of\ stop\ words\ being\ checked\r\n\ \r\n\ @return\ true\ if\ the\ word\ is\ in\ the\ list\ and\ false\ if\ it\ is\ not\r\n
+numComments=7

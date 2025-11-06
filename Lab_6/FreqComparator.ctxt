@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FreqComparator
+comment0.text=\r\n\ Class\ that\ is\ used\ to\ compare\ the\ frequencies\ of\ two\ words\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 3/25/25\r\n
+comment1.params=
+comment1.target=FreqComparator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FreqComparator\r\n
+comment2.params=w1\ w2
+comment2.target=int\ compare(Word,\ Word)
+comment2.text=\r\n\ compares\ two\ words\ first\ by\ frequencies\r\n\r\n\ @param\ \ w1\ \ first\ word\ being\ compared\r\n\ @param\ \ w1\ \ second\ word\ being\ compared\r\n\ @return\ \ \ \ the\ comparator\ output\ of\ the\ two\ words\r\n
+numComments=3
