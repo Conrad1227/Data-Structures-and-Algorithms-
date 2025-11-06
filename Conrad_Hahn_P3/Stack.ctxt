@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ Generic\ stack\ class\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 5/18/2025\r\n
+comment1.params=val
+comment1.target=void\ push(java.lang.Object)
+comment1.text=\ \r\n\ pushes\ new\ value\ onto\ the\ stack.\ \r\n\ \r\n\ @param\ val\ new\ value\ being\ added\ to\ the\ stack\r\n
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment2.text=\ \r\n\ pops\ value\ from\ the\ stack.\r\n\ \r\n\ @return\ value\ that\ was\ removed\r\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\ \r\n\ returns\ the\ top\ value\ without\ removing\ it\ \r\n\ \r\n\ @return\ the\ value\ at\ the\ top\ of\ the\ stack\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\ \r\n\ checks\ if\ the\ stack\ is\ empty\r\n\ \r\n\ @return\ true\ if\ it\ is,\ false\ if\ it\ is\ not\r\n
+comment5.params=
+comment5.target=int\ size()
+comment5.text=\ \r\n\ gets\ the\ number\ of\ values\ in\ the\ stack\r\n\ \ \r\n\ \ @return\ the\ number\ of\ values\ on\ stack\r\n
+numComments=6

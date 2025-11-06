@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Schedule
+comment0.text=\r\n\ Interface\ for\ simulation\ that\ makes\ objects\ act\ each\ hour\ and\ log\ their\ state.\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 5/18/2025\r\n
+comment1.params=
+comment1.target=void\ action()
+comment1.text=\r\n\ Called\ each\ hour,\ allowing\ the\ object\ to\ perform\ an\ action.\ \r\n
+comment2.params=
+comment2.target=int\ log_status()
+comment2.text=\r\n\ Will\ store\ the\ object\u2019s\ current\ information\ into\ a\ log\ file.\ \r\n
+numComments=3

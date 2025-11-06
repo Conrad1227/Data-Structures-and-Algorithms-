@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Generic\ first\ in\ first\ out\ queue\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 5/18/2025\r\n
+comment1.params=item
+comment1.target=void\ enqueue(java.lang.Object)
+comment1.text=\ \r\n\ adds\ a\ value\ to\ the\ end\ of\ the\ queue\r\n\ \r\n\ @param\ new\ value\ being\ added\ to\ the\ end\ of\ the\ queue\r\n
+comment2.params=
+comment2.target=java.lang.Object\ dequeue()
+comment2.text=\ \r\n\ removes\ the\ value\ at\ the\ front\ of\ the\ queue\r\n\ \r\n\ @return\ the\ value\ removed\ from\ the\ front\ of\ the\ queue\r\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\ \ \r\n\ checks\ the\ value\ at\ the\ front\ of\ the\ queue\ but\ does\ not\ remove\ it\r\n\ \r\n\ @return\ the\ value\ at\ the\ front\ of\ the\ queue\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\ \ \r\n\ checks\ if\ the\ queue\ is\ empty\ or\ not\r\n\ \r\n\ @return\ true\ if\ the\ queue\ is\ empty,\ false\ if\ it\ isnt\r\n
+comment5.params=
+comment5.target=int\ size()
+comment5.text=\ \ \r\n\ gets\ the\ numvals\ of\ the\ queue\r\n\ \r\n\ @return\ the\ number\ of\ values\ in\ the\ queue\r\n
+numComments=6
