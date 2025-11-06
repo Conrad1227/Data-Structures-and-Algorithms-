@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyClassicPriorityQueue
+comment0.text=\r\n\ Creates\ a\ generic\ Priority\ queue\ with\ a\ corresponding\ hash\ map\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/29/2025\r\n
+comment1.params=
+comment1.target=MyClassicPriorityQueue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyClassicPriorityQueue\r\n
+comment2.params=newval
+comment2.target=boolean\ add(java.lang.Comparable)
+comment2.text=\r\n\ adds\ a\ new\ value\ to\ the\ queue\ and\ adds\ it\ to\ the\ hashmap\r\n\r\n\ @param\ newval\ the\ value\ being\ added\ to\ the\ map\r\n\ @return\ true\ if\ the\ value\ was\ added,\ false\ if\ it\ wasnt\r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ poll()
+comment3.text=\r\n\ removes\ and\ returns\ the\ minimum\ value\ of\ the\ queue\ as\ well\ as\ removing\ it\ from\ the\ map\r\n\r\n\ @return\ the\ value\ being\ removed\r\n
+comment4.params=
+comment4.target=java.util.HashMap\ getMap()
+comment4.text=\r\n\ returns\ the\ HashMap\ of\ MyClassicPriorityQueue\r\n\r\n\ @return\ the\ Hashmap\r\n
+comment5.params=target\ smallerValue
+comment5.target=java.lang.Comparable\ decreaseKey(java.lang.Comparable,\ java.lang.Comparable)
+comment5.text=\r\n\ Decreases\ a\ specific\ target\ to\ another\ specified\ value\r\n\r\n\ @param\ \ target\ the\ value\ that\ is\ being\ decreased\r\n\ @param\ \ smallerValue\ the\ new,\ smaller,\ value\ at\ the\ target\r\n\ @return\ the\ value\ before\ it\ was\ decreased,\ null\ if\ the\ new\ value\ wasnt\ smaller\ or\ target\ isnt\ in\ the\ map\r\n
+numComments=6

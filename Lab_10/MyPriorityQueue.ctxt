@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyPriorityQueue
+comment0.text=\r\n\ Creates\ a\ generic\ Priority\ queue\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/28/2025\r\n
+comment1.params=
+comment1.target=MyPriorityQueue()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyPriorityQueue\r\n
+comment2.params=newval
+comment2.target=boolean\ add(java.lang.Comparable)
+comment2.text=\r\n\ Adds\ a\ new\ value\ to\ the\ heap\ and\ bubbles\ it\ up\ to\ proper\ location\r\n\r\n\ @param\ newval\ the\ value\ being\ added\ to\ the\ heap\r\n\ @return\ true\ if\ the\ value\ was\ added\ false\ if\ it\ wasnt\r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ peek()
+comment3.text=\r\n\ Looks\ at\ the\ minimal\ value\ of\ the\ heap\ but\ does\ not\ remove\ it\r\n\r\n\ @return\ the\ mininmum\ value\ of\ heap\r\n
+comment4.params=
+comment4.target=java.lang.Comparable\ poll()
+comment4.text=\r\n\ Removes\ and\ returns\ the\ minimal\ value\ of\ the\ heap,\ moving\ all\ other\ values\ accordingly\r\n\r\n\ @return\ the\ value\ that\ is\ being\ removed\r\n
+comment5.params=
+comment5.target=boolean\ isHeap()
+comment5.text=\r\n\ Checks\ if\ the\ list\ is\ properly\ ordered\ for\ a\ heap\r\n\r\n\ @return\ true\ if\ the\ list\ is\ ordered\ correctly\ false\ if\ not\r\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\r\n\ Checks\ if\ the\ list\ is\ properly\ ordered\ for\ a\ heap\r\n\r\n\ @return\ true\ if\ the\ list\ is\ ordered\ correctly\ false\ if\ not\r\n
+numComments=7

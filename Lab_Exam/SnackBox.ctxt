@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SnackBox
+comment0.text=\r\n\ A\ linked\ list\ of\ snack\ objects\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/9/2025\r\n
+comment1.params=
+comment1.target=SnackBox()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SnackBox\ that\ creates\ a\ new\ empty\ LinkedList\ of\ type\ Snacks\r\n
+comment2.params=e
+comment2.target=boolean\ add(Snack)
+comment2.text=\r\n\ Adds\ a\ snack\ to\ the\ list\ as\ long\ as\ its\ calories\ are\ above\ 40\r\n\r\n\ @param\ \ e\ The\ snack\ that\ is\ being\ added\ to\ the\ list\r\n\ @return\ true\ if\ the\ snack\ was\ added,\ and\ false\ if\ it\ was\ not\r\n
+comment3.params=
+comment3.target=int\ calorieCount()
+comment3.text=\r\n\ Gets\ the\ sum\ of\ all\ the\ calories\ from\ the\ snacks\ on\ the\ list\r\n\ \r\n\ @return\ the\ total\ number\ of\ calories\ of\ snacks\ stored\ on\ the\ list\r\n
+numComments=4

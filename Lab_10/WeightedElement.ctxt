@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WeightedElement
+comment0.text=\r\n\ Creates\ weighted\ objects\ that\ contain\ a\ value\ and\ a\ weight\ for\ use\ in\ priority\ queues\r\n\ \r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/28/2025\r\n
+comment1.params=val\ weight
+comment1.target=WeightedElement(java.lang.Object,\ java.lang.Comparable)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WeightedElement\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getVal()
+comment2.text=\r\n\ returns\ the\ value\ of\ weighted\ element\r\n\r\n\ @return\ the\ value\ of\ the\ element\r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ getWeight()
+comment3.text=\r\n\ returns\ the\ weight\ of\ weighted\ element\r\n\r\n\ @return\ the\ weight\ of\ the\ element\r\n
+comment4.params=weight2
+comment4.target=int\ compareTo(WeightedElement)
+comment4.text=\r\n\ Compare\ method\ for\ weights\ of\ elements\r\n\r\n\ @param\ weight2\ the\ weight\ being\ compared\ to\ the\ current\r\n\ @return\ compareTo\ value\ of\ weights\ being\ compared\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\ method\ for\ weighted\ element\ used\ for\ testing\r\n\r\n\ @return\ weighted\ element\ as\ a\ string\ that\ prints\ its\ value\ and\ weight\r\n
+numComments=6

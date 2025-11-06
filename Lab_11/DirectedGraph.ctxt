@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DirectedGraph
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DirectedGraph\ here.\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 5/5/2025\r\n
+comment1.params=
+comment1.target=DirectedGraph()
+comment1.text=\r\n\ Constructor\ for\ a\ new\ DirectedGraph\ list\r\n
+comment2.params=k
+comment2.target=boolean\ addNode(java.lang.Object)
+comment2.text=\r\n\ Adds\ a\ new\ node\ to\ the\ graph\r\n\ \r\n\ @param\ k\ new\ value\ being\ added\ to\ the\ graph\r\n\ @return\ True\ if\ the\ value\ was\ added,\ false\ if\ the\ value\ was\ already\ in\ the\ graph\r\n
+comment3.params=k1\ k2\ w
+comment3.target=boolean\ addEdge(java.lang.Object,\ java.lang.Object,\ int)
+comment3.text=\r\n\ Adds\ a\ new\ edge\ between\ two\ nodes\ or\ resizes\ an\ existing\ one\r\n\ \r\n\ @param\ k1\ starting\ node\ of\ the\ edge\r\n\ @param\ k2\ end\ node\ of\ the\ edge\r\n\ @param\ w\ weight\ of\ the\ new\ edge\r\n\ @return\ True\ if\ the\ edge\ was\ added,\ false\ if\ either\ of\ the\ nodes\ dont\ exist\r\n
+comment4.params=k
+comment4.target=java.util.ArrayList\ getNeighbors(java.lang.Object)
+comment4.text=\r\n\ Returns\ a\ list\ of\ the\ nodes\ neighbors\ that\ it\ can\ reach\ in\ one\ hop\r\n\ \r\n\ @param\ k\ the\ value\ of\ the\ node\ whos\ neighbors\ are\ being\ found\r\n\ @return\ a\ generic\ ArrayList\ of\ the\ nodes\ neighbors\r\n
+comment5.params=k1
+comment5.target=void\ breadthFirstClosest(java.lang.Object)
+comment5.text=\r\n\ \ prints\ out\ the\ closest\ neighbor\ of\ each\ node\ in\ the\ graph\ that\ they\ can\ reach\ in\ one\ hop\r\n\ \r\n\ @param\ k1\ the\ node\ that\ the\ breadth\ first\ order\ starts\ at\ when\ moving\ through\ the\ graph\r\n
+numComments=6

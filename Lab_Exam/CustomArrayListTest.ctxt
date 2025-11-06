@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CustomArrayListTest
+comment0.text=\r\n\ The\ test\ class\ CustomArrayListTest.\r\n\r\n\ @author\ \ Conrad\ Hahn\r\n\ @version\ 4/9/2025\r\n
+comment1.params=
+comment1.target=CustomArrayListTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ CustomArrayListTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testAddToBack()
+comment4.text=\r\n\ Tests\ the\ addToBack\ method\ of\ CustomArrayList\r\n\r\n
+numComments=5

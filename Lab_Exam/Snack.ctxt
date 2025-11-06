@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Snack
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Snack\ here.\r\n\r\n\ @author\ Conrad\ Hahn\r\n\ @version\ 4/9/2025\r\n
+comment1.params=
+comment1.target=Snack()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Snack\r\n
+comment2.params=name\ cals
+comment2.target=Snack(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getCalories()
+comment4.params=
+comment4.target=java.lang.String\ getSnackName()
+comment5.params=val
+comment5.target=void\ setCalories(int)
+comment6.params=name
+comment6.target=void\ setSnackName(java.lang.String)
+numComments=7

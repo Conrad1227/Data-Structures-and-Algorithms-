@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DirectedGraphTest
+comment0.text=\r\n\ The\ test\ class\ DirectedGraphTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=DirectedGraphTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ DirectedGraphTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testAddNodeAndEdge()
+comment4.text=\r\n\ Tests\ the\ addNode\ and\ addEdge\ methods\ of\ the\ directedgraph\r\n\ mostly\ testing\ the\ return\ of\ the\ methods\ but\ the\ outcomes\ are\ tested\ in\ the\ following\ test\ methods\r\n\r\n
+comment5.params=
+comment5.target=void\ testGetNeighbors()
+comment5.text=\r\n\ Tests\ the\ getNeighbors\ method\ of\ DirectedGraph\r\n\ Like\ stated\ in\ the\ last\ test,\ this\ also\ further\ tests\ the\ addNode\ and\ addEdge\ methods\r\n\r\n
+comment6.params=
+comment6.target=void\ testBreadthFirstClosest()
+comment6.text=\r\n\ Tests\ the\ breadthFirstCloset\ method\ of\ DirectedGraph\ as\ well\ as\ the\ returnNeighbor\ method\ of\ DirectedGraphNode\r\n\ This\ test\ is\ done\ in\ the\ console\ since\ the\ method\ prints\ the\ output\r\n
+numComments=7
